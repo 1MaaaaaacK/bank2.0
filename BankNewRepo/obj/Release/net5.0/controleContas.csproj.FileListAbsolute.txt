@@ -1,0 +1,14 @@
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/bin/Release/net5.0/controleContas.deps.json
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/bin/Release/net5.0/controleContas.runtimeconfig.json
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/bin/Release/net5.0/controleContas.runtimeconfig.dev.json
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/bin/Release/net5.0/controleContas.dll
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/bin/Release/net5.0/ref/controleContas.dll
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/bin/Release/net5.0/controleContas.pdb
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/controleContas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/controleContas.AssemblyInfoInputs.cache
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/controleContas.AssemblyInfo.cs
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/controleContas.csproj.CoreCompileInputs.cache
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/controleContas.dll
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/ref/controleContas.dll
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/controleContas.pdb
+/Users/rosenclevergazoni/Projects/instituicaoFinanceira/controleContas/obj/Release/net5.0/controleContas.genruntimeconfig.cache

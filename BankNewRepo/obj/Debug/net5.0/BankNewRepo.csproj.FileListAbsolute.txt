@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\BankNewRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\BankNewRepo.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\BankNewRepo.AssemblyInfo.cs
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\BankNewRepo.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\bin\Debug\net5.0\BankNewRepo.exe
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\bin\Debug\net5.0\BankNewRepo.deps.json
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\bin\Debug\net5.0\BankNewRepo.runtimeconfig.json
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\bin\Debug\net5.0\BankNewRepo.runtimeconfig.dev.json
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\bin\Debug\net5.0\BankNewRepo.dll
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\bin\Debug\net5.0\ref\BankNewRepo.dll
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\bin\Debug\net5.0\BankNewRepo.pdb
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\BankNewRepo.dll
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\ref\BankNewRepo.dll
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\BankNewRepo.pdb
+C:\Users\marco\source\repos\BankNewRepo\BankNewRepo\obj\Debug\net5.0\BankNewRepo.genruntimeconfig.cache
